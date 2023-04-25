@@ -24,4 +24,19 @@ li{
     padding: 0;
     color:#332121;
 }
-
+.weather-temperature img{
+    margin-right:5px;
+    height:64px;
+    width:64px;
+}
+.weather-temperature strong{
+    font-size:64px;
+    line-height: 1;
+    font-weight: 500;
+}
+.weather-temperature #units{
+    color: #332121;
+    position: relative;
+    font-size: 16px;
+    top: -34px;
+}
