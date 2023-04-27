@@ -14,10 +14,12 @@ h1{
     font-weight: 100;
     color: blue;
 }
- ul{
-     margin: 0;
-     padding: 0;
- }
+ul{
+    color: red;
+} 
+    
+    
+ 
 li{
     list-style: none;
     margin: 0;
