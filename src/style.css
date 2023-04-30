@@ -42,4 +42,10 @@ li{
     position: relative;
     font-size: 16px;
     top: -34px;
+     text-decoration: none; 
+}
+.weather-temperature .active{
+    color: #332121;
+    cursor: default;
+    text-decoration: none;
 }
