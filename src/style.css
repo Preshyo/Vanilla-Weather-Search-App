@@ -6,8 +6,8 @@
     padding: 20px;
     border: 1px solid #332121;
     border-radius: 5px;
-    box-shadow: 12px 12px 2px 1px rgba (0, 0, 255, .2);
-    background-color: rgb(248, 203, 211);
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(#ddd6f3, #faaca8);
     
 }
 
